@@ -62,7 +62,7 @@
     <link href="http://yoursite.com/2016/11/09/aaa/"/>
     <id>http://yoursite.com/2016/11/09/aaa/</id>
     <published>2016-11-09T07:11:58.000Z</published>
-    <updated>2016-11-09T08:12:57.885Z</updated>
+    <updated>2016-11-09T10:02:03.119Z</updated>
     
     <content type="html"><![CDATA[<p>my name is yangk.<br><a id="more"></a><br>今天星期一，全校升国旗。</p>
 ]]></content>
@@ -73,6 +73,10 @@
     
     </summary>
     
+      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+    
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
   </entry>
   
