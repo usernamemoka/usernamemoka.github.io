@@ -1557,7 +1557,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c60eff;
+  background: #e4c41c;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2525,7 +2525,7 @@ body {
 .menu .menu-item a {
   position: relative;
   box-sizing: border-box;
-  padding: 5px 20px;
+  padding: 5px 0;
   text-align: left;
   line-height: inherit;
   transition-property: background-color;
