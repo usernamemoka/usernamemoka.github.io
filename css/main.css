@@ -840,9 +840,6 @@ pre .javascript .function {
     border-bottom-color: #222;
   }
 }
-.comments {
-  margin: 60px 20px 0;
-}
 .tag-cloud {
   text-align: center;
 }
@@ -1046,9 +1043,6 @@ pre .javascript .function {
   -ms-transform: rotate(30deg);
   -o-transform: rotate(30deg);
   transform: rotate(30deg);
-}
-.posts-expand {
-  padding-top: 40px;
 }
 @media (max-width: 767px) {
   .posts-expand {
@@ -1276,11 +1270,11 @@ pre .javascript .function {
   font-size: 16px;
 }
 .posts-expand .post-meta {
-  margin: 3px 0 60px 0;
+  margin: 3px 0 20px 0;
   color: #999;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
-  text-align: center;
+  text-align: right;
 }
 .posts-expand .post-meta .post-category-list {
   display: inline-block;
@@ -1563,7 +1557,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a1ffff;
+  background: #c60eff;
 }
 .links-of-blogroll {
   font-size: 13px;
